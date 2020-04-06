@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
 <Module>
-    <Name value="Prisoner Recruitment"/>
-    <Id value="PrisonerRecruitment"/>
-    <Version value="v0.0.1"/>
-    <SingleplayerModule value="true"/>
-    <MultiplayerModule value="true"/>
-    <Official value="false"/>
+  <Name value="Prisoner Recruitment"/>
+  <Id value="PrisonerRecruitment"/>
+  <Version value="v1.0.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
   <DependedModules>
     <DependedModule Id="Native"/>
     <DependedModule Id="SandBoxCore"/>
@@ -13,16 +11,16 @@
     <DependedModule Id="CustomBattle"/>
     <DependedModule Id="StoryMode" />
   </DependedModules>
-    <SubModules>
-        <SubModule>
-            <Name value="PrisonerRecruitment"/>
-            <DLLName value="PrisonerRecruitment.dll"/>
-            <SubModuleClassType value="PrisonerRecruitment.PrisonerRecruitmentMod"/>
-            <Tags>
-                <Tag key="DedicatedServerType" value="none"/>
-                <Tag key="IsNoRenderModeElement" value="false"/>
-            </Tags>
-        </SubModule>
-    </SubModules>
-    <Xmls/>
+  <SubModules>
+    <SubModule>
+      <Name value="PrisonerRecruitmentMod"/>
+      <DLLName value="PrisonerRecruitment.dll"/>
+      <SubModuleClassType value="PrisonerRecruitment.PrisonerRecruitmentMod"/>
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls/>
 </Module>
