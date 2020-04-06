@@ -1,0 +1,9 @@
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\bin\Win64_Shipping_Client\PrisonerRecruitment.deps.json
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\bin\Win64_Shipping_Client\PrisonerRecruitment.dll
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\bin\Win64_Shipping_Client\PrisonerRecruitment.pdb
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.csprojAssemblyReference.cache
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.csproj.CoreCompileInputs.cache
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.AssemblyInfoInputs.cache
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.AssemblyInfo.cs
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.dll
+D:\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\PrisonerRecruitment\src\ModuleTemplate\obj\x64\Debug\netstandard2.0\PrisonerRecruitment.pdb
